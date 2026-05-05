@@ -1,0 +1,11 @@
+# ── Telegram ──────────────────────────────────────────────────────────────────
+BOT_TOKEN=8607017495:AAG9DXMDVgnwQjUpfki3aMEAun7fxAvcZk0
+
+# ── DeepSeek ──────────────────────────────────────────────────────────────────
+DEEPSEEK_API_KEY=sk-e4163dde265f49d180f0258ba6b0c4a1
+
+# ── PostgreSQL ────────────────────────────────────────────────────────────────
+DATABASE_URL=postgresql://postgres:LNUzbEbAFdbcVGNDocXqPZjSlksTNnQs@postgres.railway.internal:5432/railway
+
+# ── Администраторы (через запятую) ────────────────────────────────────────────
+ADMIN_IDS=7774179831
